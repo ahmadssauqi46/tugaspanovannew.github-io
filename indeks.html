@@ -3,22 +3,39 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Kuis Pemrograman Web</title>
+  <title>Kuis Gaya Game</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
   <link rel="stylesheet" href="style.css"/>
 </head>
-<body>
-  <div class="container mt-5">
-    <div class="card shadow p-4">
-      <h2 class="text-center mb-4">Kuis Pemrograman Web</h2>
-      <div id="quiz-box">
-        <h5 id="question-text"></h5>
-        <div id="options" class="mt-3"></div>
-        <button class="btn btn-primary mt-4 w-100" onclick="nextQuestion()">Selanjutnya</button>
-      </div>
-      <div id="result" class="text-center fw-bold mt-4"></div>
+<body class="quiz-bg text-white">
+
+  <div class="container d-flex justify-content-center align-items-center min-vh-100">
+
+    <!-- Tampilan Awal -->
+    <div id="start-screen" class="text-center">
+      <h1 class="mb-4 fw-bold text-warning">🎮 Selamat Datang di Kuis Web 🎮</h1>
+      <p class="mb-4">Uji pengetahuanmu tentang HTML, CSS, dan JavaScript!</p>
+      <button class="btn btn-warning px-5 py-3 fw-bold" onclick="startQuiz()">Mulai Kuis</button>
     </div>
+
+    <!-- Tampilan Kuis -->
+    <div id="quiz-box" class="quiz-box text-center p-4 d-none">
+      <div class="question-banner mb-3">PERTANYAAN</div>
+      <div class="question-box p-3 mb-4">
+        <h5 id="question-text" class="mb-0"></h5>
+      </div>
+      <div id="options" class="row gy-3">
+        <!-- Tombol jawaban akan diisi oleh JavaScript -->
+      </div>
+      <div class="d-flex justify-content-between mt-4">
+        <button class="btn btn-outline-warning px-4" onclick="prevQuestion()">← Kembali</button>
+        <button class="btn btn-warning px-4" onclick="nextQuestion()">Lanjut →</button>
+      </div>
+      <div id="result" class="mt-4 fw-bold"></div>
+    </div>
+
   </div>
+
   <script src="ini.js"></script>
 </body>
 </html>
