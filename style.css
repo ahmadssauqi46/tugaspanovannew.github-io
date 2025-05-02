@@ -1,7 +1,9 @@
 body.quiz-bg {
-    background: linear-gradient(to bottom, #0d0d0d, #1a1a1a);
+    background: url('gambargunung.jpg') no-repeat center center fixed;
+    background-size: cover;
     font-family: 'Comic Sans MS', cursive, sans-serif;
-  }
+}
+
   
   .quiz-box {
     background-color: #2e2e2e;
