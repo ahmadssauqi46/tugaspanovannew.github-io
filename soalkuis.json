@@ -1,0 +1,202 @@
+[
+    {
+      "soal": "Apa itu DOM dalam konteks web development?",
+      "pilihan": [
+        "Document Object Model",
+        "Data Object Management",
+        "Digital Output Module",
+        "Dynamic Object Mapping"
+      ],
+      "jawaban": "Document Object Model"
+    },
+    {
+      "soal": "Tag HTML mana yang digunakan untuk membuat daftar yang tidak berurutan?",
+      "pilihan": [
+        "<ol>",
+        "<ul>",
+        "<li>",
+        "<dl>"
+      ],
+      "jawaban": "<ul>"
+    },
+    {
+      "soal": "Apa fungsi dari atribut 'class' pada elemen HTML?",
+      "pilihan": [
+        "Untuk memberikan identifikasi unik pada elemen",
+        "Untuk mengelompokkan beberapa elemen dengan gaya yang sama",
+        "Untuk menentukan jenis elemen",
+        "Untuk menambahkan perilaku interaktif pada elemen"
+      ],
+      "jawaban": "Untuk mengelompokkan beberapa elemen dengan gaya yang sama"
+    },
+    {
+      "soal": "Apa itu selector dalam CSS?",
+      "pilihan": [
+        "Bagian dari CSS rule yang menentukan elemen HTML yang akan dikenai style",
+        "Sebuah fungsi JavaScript untuk memanipulasi elemen HTML",
+        "Atribut HTML untuk memberikan style inline",
+        "Sebuah library CSS yang sudah jadi"
+      ],
+      "jawaban": "Bagian dari CSS rule yang menentukan elemen HTML yang akan dikenai style"
+    },
+    {
+      "soal": "Apa perbedaan utama antara 'id' dan 'class' dalam HTML?",
+      "pilihan": [
+        "'id' digunakan untuk styling, sedangkan 'class' untuk scripting",
+        "'id' harus unik dalam satu dokumen, sedangkan 'class' dapat digunakan pada banyak elemen",
+        "'class' memiliki prioritas lebih tinggi daripada 'id' dalam CSS",
+        "Tidak ada perbedaan, keduanya dapat digunakan secara bergantian"
+      ],
+      "jawaban": "'id' harus unik dalam satu dokumen, sedangkan 'class' dapat digunakan pada banyak elemen"
+    },
+    {
+      "soal": "Apa itu box model dalam CSS?",
+      "pilihan": [
+        "Model untuk mengatur tata letak elemen dalam bentuk kotak, meliputi margin, border, padding, dan content",
+        "Sebuah cara untuk membuat animasi berbentuk kotak",
+        "Metode penyimpanan data dalam bentuk kotak-kotak",
+        "Sebuah framework CSS berbasis grid"
+      ],
+      "jawaban": "Model untuk mengatur tata letak elemen dalam bentuk kotak, meliputi margin, border, padding, dan content"
+    },
+    {
+      "soal": "Apa kegunaan utama dari JavaScript?",
+      "pilihan": [
+        "Untuk mengatur struktur konten halaman web",
+        "Untuk memberikan style pada elemen HTML",
+        "Untuk menambahkan interaktivitas dan logika di sisi klien",
+        "Untuk mengelola database website"
+      ],
+      "jawaban": "Untuk menambahkan interaktivitas dan logika di sisi klien"
+    },
+    {
+      "soal": "Apa itu event listener dalam JavaScript?",
+      "pilihan": [
+        "Sebuah fungsi yang dijalankan secara otomatis saat halaman dimuat",
+        "Sebuah mekanisme untuk menunggu dan merespons tindakan pengguna (misalnya, klik, mouseover)",
+        "Sebuah cara untuk memanipulasi style elemen HTML",
+        "Sebuah metode untuk mengirimkan data ke server"
+      ],
+      "jawaban": "Sebuah mekanisme untuk menunggu dan merespons tindakan pengguna (misalnya, klik, mouseover)"
+    },
+    {
+      "soal": "Apa itu AJAX?",
+      "pilihan": [
+        "Advanced JavaScript and XML",
+        "Asynchronous JavaScript and XML",
+        "Automated JSON and XML",
+        "Application Java eXtension"
+      ],
+      "jawaban": "Asynchronous JavaScript and XML"
+    },
+    {
+      "soal": "Apa fungsi dari 'localStorage' dalam browser?",
+      "pilihan": [
+        "Untuk menyimpan data sesi pengguna",
+        "Untuk menyimpan data secara permanen di browser pengguna",
+        "Untuk menyimpan cache website",
+        "Untuk menyimpan cookie website"
+      ],
+      "jawaban": "Untuk menyimpan data secara permanen di browser pengguna"
+    },
+    {
+      "soal": "Apa itu framework CSS?",
+      "pilihan": [
+        "Bahasa pemrograman untuk styling web",
+        "Kumpulan library dan tools CSS yang sudah jadi untuk memudahkan pengembangan",
+        "Sebuah metode penulisan CSS yang terstruktur",
+        "Sebuah aplikasi untuk membuat desain CSS secara visual"
+      ],
+      "jawaban": "Kumpulan library dan tools CSS yang sudah jadi untuk memudahkan pengembangan"
+    },
+    {
+      "soal": "Sebutkan salah satu framework CSS yang populer.",
+      "pilihan": [
+        "HTML5",
+        "JavaScript",
+        "Bootstrap",
+        "XML"
+      ],
+      "jawaban": "Bootstrap"
+    },
+    {
+      "soal": "Apa itu library JavaScript?",
+      "pilihan": [
+        "Sebuah aplikasi untuk menulis kode JavaScript",
+        "Kumpulan kode JavaScript yang sudah ditulis dan dapat digunakan kembali untuk mempermudah pengembangan",
+        "Sebuah standar penulisan kode JavaScript",
+        "Sebuah framework untuk membangun aplikasi web berbasis JavaScript"
+      ],
+      "jawaban": "Kumpulan kode JavaScript yang sudah ditulis dan dapat digunakan kembali untuk mempermudah pengembangan"
+    },
+    {
+      "soal": "Sebutkan salah satu library JavaScript yang populer.",
+      "pilihan": [
+        "CSS",
+        "HTML",
+        "React",
+        "AJAX"
+      ],
+      "jawaban": "React"
+    },
+    {
+      "soal": "Apa itu API dalam konteks web development?",
+      "pilihan": [
+        "Application Programming Interface",
+        "Advanced Protocol Integration",
+        "Automated Process Interaction",
+        "Application Process Interface"
+      ],
+      "jawaban": "Application Programming Interface"
+    },
+    {
+      "soal": "Apa itu responsive web design?",
+      "pilihan": [
+        "Desain web yang hanya berfungsi pada desktop",
+        "Desain web yang tata letaknya menyesuaikan dengan ukuran layar perangkat yang digunakan",
+        "Desain web yang menggunakan animasi berlebihan",
+        "Desain web yang hanya menggunakan teks"
+      ],
+      "jawaban": "Desain web yang tata letaknya menyesuaikan dengan ukuran layar perangkat yang digunakan"
+    },
+    {
+      "soal": "Apa itu version control system?",
+      "pilihan": [
+        "Sistem untuk mengatur tampilan website",
+        "Sistem untuk melacak perubahan kode dari waktu ke waktu",
+        "Sistem untuk mengoptimalkan kecepatan website",
+        "Sistem untuk mengamankan website dari serangan"
+      ],
+      "jawaban": "Sistem untuk melacak perubahan kode dari waktu ke waktu"
+    },
+    {
+      "soal": "Sebutkan salah satu contoh version control system yang populer.",
+      "pilihan": [
+        "HTML",
+        "CSS",
+        "Git",
+        "JavaScript"
+      ],
+      "jawaban": "Git"
+    },
+    {
+      "soal": "Apa itu front-end development?",
+      "pilihan": [
+        "Pengembangan bagian server dari aplikasi web",
+        "Pengembangan bagian antarmuka pengguna (user interface) dari aplikasi web",
+        "Pengembangan database aplikasi web",
+        "Pengembangan infrastruktur jaringan aplikasi web"
+      ],
+      "jawaban": "Pengembangan bagian antarmuka pengguna (user interface) dari aplikasi web"
+    },
+    {
+      "soal": "Apa itu back-end development?",
+      "pilihan": [
+        "Pengembangan bagian antarmuka pengguna dari aplikasi web",
+        "Pengembangan bagian server dan database dari aplikasi web",
+        "Desain visual aplikasi web",
+        "Pengujian keamanan aplikasi web"
+      ],
+      "jawaban": "Pengembangan bagian server dan database dari aplikasi web"
+    }
+  ]
